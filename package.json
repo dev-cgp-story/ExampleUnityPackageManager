@@ -1,0 +1,9 @@
+{
+    "name": "com.test.sdk", 
+    "displayName": "My SDK",
+    "unity": "2018.1", 
+    "version": "0.0.1",
+    "author": "Kang",
+    "description": "My SDK Description",
+    "dependencies": {}
+}
