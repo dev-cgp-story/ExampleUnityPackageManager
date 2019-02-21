@@ -10,4 +10,10 @@ public static class MyMenu
     {
 
     }
+    
+    [MenuItem("MyMenu/MyMenuItem2")]
+    public static void MyMenuItem2() 
+    {
+
+    }
 }
